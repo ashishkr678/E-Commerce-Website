@@ -9,7 +9,7 @@ import {
   Squares2X2Icon,
 } from "@heroicons/react/20/solid";
 import ProductCard from "./ProductCard";
-import { mens_kurta } from "../../../men_kurta";
+import { mens_kurta } from "../../../data/mens_kurta";
 import { filters, singleFilter } from "./FilterData";
 import FilterListIcon from "@mui/icons-material/FilterList";
 import { useLocation, useNavigate } from "react-router-dom";
