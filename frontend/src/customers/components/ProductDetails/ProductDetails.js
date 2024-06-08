@@ -2,7 +2,7 @@ import { RadioGroup } from "@headlessui/react";
 import { Box, Button, Grid, LinearProgress, Rating } from "@mui/material";
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { mens_kurta } from "../../../men_kurta";
+import { mens_kurta } from "../../../data/mens_kurta";
 import HomeSectionCards from "../HomeSectionCard/HomeSectionCards";
 import ProductReviewCard from "./ProductReviewCard";
 
