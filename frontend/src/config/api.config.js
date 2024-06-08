@@ -1,6 +1,6 @@
 import axios from "axios";
 
-export const API_BASE_URL = "http://localhost:5834";
+export const API_BASE_URL = "https://e-commerce-website-clj5.onrender.com";
 
 const jwt = localStorage.getItem("jwt")
 
