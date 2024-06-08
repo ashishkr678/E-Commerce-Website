@@ -1,7 +1,7 @@
 import React from 'react';
 import MainCarousel from '../../components/HomeCarousel/MainCarousel';
 import HomeSectionCarousel from '../../components/HomeSectionCarousel/HomeSectionCarousel';
-import { mens_kurta } from "../../../men_kurta";
+import { mens_kurta } from "../../../data/mens_kurta";
 
 const HomePages = () => {
     return (
